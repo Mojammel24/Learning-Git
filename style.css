@@ -24,6 +24,7 @@ body{
     /* align-items: center; */
     padding: 22px;
     gap: 19px;
+    display: flex;
 }
 
 .visible-text,.hiddenText{
